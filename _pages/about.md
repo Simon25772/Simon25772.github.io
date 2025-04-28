@@ -11,6 +11,8 @@ redirect_from:
 
 I am a postgraduate student in the Department of Computer Science and Technology at Tsinghua University.
 
+I graduated from the Department of Computer Science and Technology of Chengdu University of Technology with a bachelor's degree.
+
 ## What am I concentrating on?
 
 - [Open source project ndarray-layout](https://github.com/Simon25772/ndarray-layout);
