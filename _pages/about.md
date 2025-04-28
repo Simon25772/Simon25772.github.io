@@ -14,5 +14,5 @@ I am a postgraduate student in the Department of Computer Science and Technology
 ## What am I concentrating on?
 
 - [Open source project ndarray-layout](https://github.com/Simon25772/ndarray-layout);
-- Open source project tensor;
+- [Open source project tensor](https://github.com/Simon25772/tensor);
 - My undergraduate graduation thesis-The Basic Principle and algorithm research of Deep Clustering Algorithm;
