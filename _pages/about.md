@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to Shenghu Su's home
+## About me
 
 I am a postgraduate student in the Department of Computer Science and Technology at Tsinghua University.
 
